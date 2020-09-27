@@ -974,4 +974,7 @@ textarea {
 }
 img{
 	border: solid 3px #fff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
