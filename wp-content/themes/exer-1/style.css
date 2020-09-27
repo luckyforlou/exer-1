@@ -972,6 +972,7 @@ textarea {
 #page{
 	background-color: lightslategrey;
 	color:#aaa;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
 	border: solid 5px #aaa;
