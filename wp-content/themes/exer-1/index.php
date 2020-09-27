@@ -51,7 +51,7 @@ get_header();
 		?>
 
 	</main><!-- #main -->
-
+	<img src="https://d32dm0rphc51dk.cloudfront.net/ysPLvPr39pQReFdXWyJ5Bg/large.jpg" alt="Marc Chagall - Printemps">
 <?php
 get_sidebar();
 get_footer();
