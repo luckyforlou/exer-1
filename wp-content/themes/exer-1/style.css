@@ -972,3 +972,6 @@ textarea {
 #page{
 	background-color: lightslategrey;
 }
+img{
+	border: solid 3px #fff;
+}
