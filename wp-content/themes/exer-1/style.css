@@ -127,6 +127,7 @@ pre {
  */
 a {
 	background-color: transparent;
+	text-decoration: none;
 }
 
 /**
@@ -533,11 +534,11 @@ table {
 /* Links
 --------------------------------------------- */
 a {
-	color: #4169e1;
+	color: #fff;
 }
 
 a:visited {
-	color: #800080;
+	color: #dfc7c7;
 }
 
 a:hover,
